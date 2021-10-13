@@ -2,10 +2,10 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+La description de mon parcours aisni que le ton de ma voix.
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+La fluidité de mes mots et éviter les "euh". Pratiquer à haut voix avant le jour de l'oral afin d'être sûr d'avoir les bons mots
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Celui de Justin parce que sa présentation était plus que bien détaillé

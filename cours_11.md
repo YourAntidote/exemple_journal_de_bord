@@ -6,7 +6,7 @@ Durée: 5 à 7 minutes
 Le jeu célèbre jeu vidéo Detroit : Become Humain, a été développer par le studio de jeu Quantic Dream en 2018 sur PlayStation et en 2019 sur PC pour un total de plus de six millions de copies vendu partout à travers le monde. Le studio à développer ce jeu afin de donner l’expérience que chacune des décisions sont très importante pour le cours de l’histoire.
 
 ### Carte heuristique
-![Diapositive7](https://user-images.githubusercontent.com/89608252/142507114-f337fc85-b9e4-4863-b383-9fcefff21e2b.JPG)
+![Diapositive7](images/Diapositive7.JPG)
 
 
 ### Technologies!

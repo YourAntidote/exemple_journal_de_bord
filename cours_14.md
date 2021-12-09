@@ -16,7 +16,7 @@ Par exemple, lorsque le joueur décide de s'aventurer dans la maison d'un paysan
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Le *Motion capture* sera l'une des technologies très utiliser dans le jeu afin de rendre les cinématique ou autre action très réaliste. 
 
 ### Étapes de réalisation
-Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
+D'abord il faut écrire l'idée, conceptualisation, la programmation, l'enregistrment des voix et musique, Art, Publication. Un aussi gros projet que le notre on parlait de minimum 6 ans de production.

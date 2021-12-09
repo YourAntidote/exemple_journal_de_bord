@@ -1,3 +1,5 @@
 # Cours 12
 ## Création de scénarimage
-Créer un scénarimage et le joindre ici: 
+![Scenarimage(STORYBOARD-board-00001.png)
+
+

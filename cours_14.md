@@ -13,7 +13,7 @@ Par exemple, lorsque le joueur décide de s'aventurer dans la maison d'un paysan
 ![Scenarimage](/images/STORYBOARD-board-00001.png)
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![MoodBoard](/images/Web 1920 – 1.png)
 
 ### Technologies
 Le *Motion capture* sera l'une des technologies très utiliser dans le jeu afin de rendre les cinématique ou autre action très réaliste. 

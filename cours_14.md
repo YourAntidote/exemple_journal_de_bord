@@ -13,7 +13,7 @@ Par exemple, lorsque le joueur décide de s'aventurer dans la maison d'un paysan
 ![Scenarimage](/images/STORYBOARD-board-00001.png)
 
 ### Moodboard
-![MoodBoard](/images/Web 1920 – 1.png)
+![MoodBoard](/images/moodboard.png)
 
 ### Technologies
 Le *Motion capture* sera l'une des technologies très utiliser dans le jeu afin de rendre les cinématique ou autre action très réaliste. 

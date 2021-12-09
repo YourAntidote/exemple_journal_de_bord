@@ -3,13 +3,14 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Notre project est un jeu vidéo inspirer des jeux Grand Thief Auto et Red Dead Redemption, mais avec la une ambiance futuristique à la place. Ainsi, le *gameplay* est le même que les autres jeux de **Rockstar Games**.
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Trade Your Life, sera un jeu d'action-aventure et tir à la troisième personne, RPG à monde ouvert. Falco est le nom du personnage que le joueur incarnera toute au long de l'histoire. Le jeu aura un thème plus du style futuristique et ce déroule sur la planète Terre. Le joueur devra suivre la quête principale toute au long e l'histoire tout en complpètant les quêtes secondaires des paysans et autres. Finalement, durant des scènes de dialogue, le joueur devra choisir une réponse parmi plusieurs données, ainsi changeant le fin mots de l'histoire.
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+Par exemple, lorsque le joueur décide de s'aventurer dans la maison d'un paysan qu'il ne connait, ça sera un peu plus réaliste: 
+![Scenarimage](/images/STORYBOARD-board-00001.png)
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 

@@ -8,11 +8,11 @@ Chez Ubisoft les tâches qui me seront reliées seront surtout la programmation 
 ### Emploi 2 - Testeur de jeux vidéos
 Les tâches d'un testeur consistent à repérer les différents types de défauts pour qu'ils soient ensuite corrigés par les programmeurs avant la mise en vente. Le travail d'un testeur peut se faire à domicile ou directement au sein d'une compagnie. Les qualités requises pour pratiquer ce métier sont: une bonne aptitude à communiquer avec tes coéquipiers, un bon esprit d'analyse, da la patience ainsi qu'une bonne connaissance dans le domaine du jeu vidéo. Pouvoir donner mon opinion afin d'amélioration d'un jeu, c'est ce que j'aime le plus. Ce que j'aime moins, c'est qu'il faut avoir beaucoup d'expérience pour tester les jeux des grandes entreprises.
 
-### Emploi 3 - Identification
-4 à 5 lignes 
-
-### Emploi 4 - Développeur de jeux vidéos (Travail autonome)
+### Emploi 3 - Développeur de jeux vidéos (Travail autonome)
 Finalement en 5e emploi, je travaillerais pour moi-même. Ceci consiste à ne pas avoir de boss, je travaille pour moi-même en solo. Techniquement ça serait un travail depuis mon domicile, donc je n'aurais pas à me soucier du temps perdu à cause de mes trajets.  Je travaillerai tous les jours à développer mon propre jeu que je publirai sur une plateforme de jeu comme *Steam*. Le point qui m'intéresse le plus à faire ce travail autonomone est le profit possible. Cependant, si mon jeu ne perce pas dans la tendance, je pourrais vivre dans les mals.
 
-### Emploi 5 - Photographe (Sur contract)
+### Emploi 4 - Photographe (Sur contract)
 Le travail consisterait de travailler avec des contracts, c'est-à-dire que les gens me contacterait afin de prendre rendez-vous. Le lieu et le thème dépendraient des mes clients, ce qui rendrait chacun de mes contracts unique et c'est des raisons pour laquelle j'exercerais ce métier. Pour être photographe il est important d'être créatif, enthousiaste, joyeux et talentueux parce que ce sont les qualités qui vont déprendre du salaire. Ce que j'aime moins de ce métier, tant et longtemps qu'un client ne prend pas contact pour un contrat, je ne pourrai pas avoir un salaire quoditien.
+
+### Emploi 5 - Répareur d'électronique
+J'ai toujours adoré réparer les électroniques que ce soit des manettes de consoles, des jouets ou encore des appareils de cuisine. En devenant répareur j'ai sais que je ne travaillerais pas toujours sur le même objet chaque jour et c'est ce qui me plait. En revanche, de ce que j'ai entendu dire, le salaire d'un répareur d'électronique ne gagne pas beaucoup contrairement à d'autres métiers et c'est que j'aime moins. Les répareurs peuvent soit travailler derrière un kiosque dans un magasin ou un centre d'achat, sinon ils peuvent avoir leur propre petit magasin de réparation. Pour faire ce métier, il est important d'être bon en ingénierie, savoir comment l'électronique et les courants électriques sont impératifs. Par la suite, il faut être très doué à trouver les problèmes et les résoudre rapidement, ce qui n'est pas un problème pour moi. 
